@@ -1,0 +1,6 @@
+/.env
+/gmail/.env
+/node_modules
+/package-lock.json
+/gmail/package-lock.json
+/gmail/node_modules
